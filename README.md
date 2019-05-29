@@ -1,6 +1,6 @@
 # Node sample
 
-A sample node micrdoservice block for [kintohub](http://kintohub.com)
+A sample node micrdoservice block hjhfor [kintohub](http://kintohub.com)
 
 
 # First time setup
